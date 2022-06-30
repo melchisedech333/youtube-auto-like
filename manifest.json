@@ -1,0 +1,25 @@
+{
+    "name": "YouTube Auto Like!",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "YouTube Auto Like",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "background.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "tabs",
+        "activeTab"
+    ],
+    "host_permissions": [
+        "http://*.youtube.com/"
+    ]
+}
+
+
