@@ -6,7 +6,7 @@
         return;
     }
 
-	console.log("YouTube Auto Like Started - Cristo <3");
+	console.log("YouTube Auto Like Started - I Love Cristo <3");
 
 	var intervalRunning = false;
 	var interval = setInterval(function() {

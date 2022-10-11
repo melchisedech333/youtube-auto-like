@@ -2,7 +2,16 @@
     "name": "YouTube Auto Like",
     "version": "1.0.0",
     "manifest_version": 3,
-    "description": "YouTube Auto Like",
+    "description": "Automatically click the like button when accessing a video on YouTube.",
+    "author": "https://github.com/melchisedech333",
+    "icons": {
+        "16": "icons/icon16.png",
+        "19": "icons/icon19.png",
+        "32": "icons/icon32.png",
+        "38": "icons/icon38.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
     "content_scripts": [
         {
             "matches": [
