@@ -49,7 +49,7 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 
 <div align="center">
 
-## Remember to give me <br> a pretty little star :star_struck:
+## Remember to give me <br> a beautiful little star :star_struck:
 
 </div>
 
