@@ -45,4 +45,6 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 [ BSD-3-Clause license](./license)
 
 
+Remember to give me a pretty little <span style="color:purple">star</span> :star: 🙃
+
 
