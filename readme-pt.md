@@ -48,7 +48,7 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 
 <div align="center">
 
-## Lembre-se de me dar <br> uma linda estrelinha :star_struck:
+## lembre-se de me dar <br> uma linda estrelinha :star_struck:
 
 </div>
 
