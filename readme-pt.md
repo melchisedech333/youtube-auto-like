@@ -1,11 +1,11 @@
 
 <div align='center'>
 
-### <b>YouTube Auto Like</b>
-
-<img src="images/like.png" width="300px" />
+<img src="images/banner.jpg" />
 
 </div>
+
+<br>
 
 <p align="center">
     <a href="https://github.com/sponsors/melchisedech333"><img src="https://img.shields.io/badge/patrocinar-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
