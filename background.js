@@ -14,11 +14,29 @@
 		if (intervalRunning == false) {
 			intervalRunning = true;
 
-			var els = document.querySelectorAll('yt-animated-icon');
-			for (var a=0; a<els.length; a++) {
+			var els = document.querySelectorAll('#segmented-like-button button');
+			
+            if (els)
+			if (els[0])
+            
+            for (var a=0; a<els.length; a++) {
 				if (els[a]) {
-					els[a].click();
-					clearInterval(interval);
+                    var item = '';
+					
+					if (els[a].innerHTML) {
+						item = els[a].innerHTML;
+						item = item.toString().toLowerCase();
+					}
+
+					if (item.indexOf('like') != -1 && 
+						item.indexOf('dislike') == -1)
+					{
+						if (els[a].getAttribute('aria-pressed') == 'false') {
+							els[a].click();
+							console.log("Liked!");
+						}
+					}
+
 					break;
 				}
 			}
