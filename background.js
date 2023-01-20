@@ -28,13 +28,9 @@
 						item = item.toString().toLowerCase();
 					}
 
-					if (item.indexOf('like') != -1 && 
-						item.indexOf('dislike') == -1)
-					{
-						if (els[a].getAttribute('aria-pressed') == 'false') {
-							els[a].click();
-							console.log("Liked!");
-						}
+					if (els[a].getAttribute('aria-pressed') == 'false') {
+						els[a].click();
+						console.log("Liked!");
 					}
 
 					break;
